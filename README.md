@@ -1,6 +1,4 @@
-survey link-https://forms.gle/WiiWoAxoF1zNMcom6
-feedback link- https://docs.google.com/forms/d/e/1FAIpQLSd-Jl8nwIGF2DM8h0FqKMVfoZZQwIcAc1JJche4ADmuGvE8ew/viewform?usp=sharing&ouid=115003301809222034575
-# 🧠 MindPatch – AI-Assisted Digital Detox & Wellness Planner
+# MindPatch – AI-Assisted Digital Detox & Wellness Planner
 
 ## Project Overview
 **MindPatch** is a user-centered, AI-assisted digital wellness planner designed for students and young adults who experience digital fatigue, excessive screen time, and emotional overload in a hyperconnected environment.  
@@ -26,6 +24,7 @@ Students today spend a significant portion of their day on digital devices, ofte
 
 ## User Research Summary
 A small-scale, peer-based exploratory survey was conducted to understand students’ screen-time habits and emotional responses to prolonged digital usage.
+Survey link: https://forms.gle/WiiWoAxoF1zNMcom6
 
 ### Key Insights
 - Most respondents reported **4+ hours of daily screen time**
@@ -91,6 +90,7 @@ All AI suggestions are clearly labeled as **AI-generated** and explained in non-
 
 ## Usability Testing & Iteration
 A small-scale peer-based usability testing simulation was conducted using a structured feedback form.
+Link: https://docs.google.com/forms/d/e/1FAIpQLSd-Jl8nwIGF2DM8h0FqKMVfoZZQwIcAc1JJche4ADmuGvE8ew/viewform?usp=sharing&ouid=115003301809222034575
 
 ### Key Feedback
 - AI suggestions were helpful but required clearer explanation
@@ -99,7 +99,8 @@ A small-scale peer-based usability testing simulation was conducted using a stru
 ### Iterations Implemented
 - Added brief explanatory text to clarify how AI suggestions are generated
 - Simplified the Habit Tracker layout to reduce cognitive load
-
+<img width="675" height="630" alt="image" src="https://github.com/user-attachments/assets/29bbf877-8c73-4397-9134-3b193439e37d" />
+<img width="683" height="657" alt="image" src="https://github.com/user-attachments/assets/bc398791-8946-437f-9447-fd06ad2ff4e7" />
 These refinements improved clarity and usability while preserving the original design intent.
 
 ---
@@ -122,21 +123,18 @@ These refinements improved clarity and usability while preserving the original d
 
 ## Prototype Link
 🔗 **Figma Prototype**  
-[PASTE YOUR FIGMA PROTOTYPE LINK HERE]
+[(https://www.figma.com/make/IR5Pi1frNQIjLm7M5EJvWc/MindPatch-Mobile-App-Prototype?t=KbIuKl6CgbTqwbum-1)]
 
 ---
 
 ## Author
-- **Name:** [Your Full Name]  
-- **Student ID:** [Candidate Registration Number]  
+- **Name:** Aarav Agarwal  
+- **Student ID:** 1000197
 - **Course:** Critical and Creative Thinking (CRS – Artificial Intelligence)  
-- **School:** [Your School Name]
+- **School:** Birla Open Minds International School Kollur
 
 ---
 
-<img width="675" height="630" alt="image" src="https://github.com/user-attachments/assets/29bbf877-8c73-4397-9134-3b193439e37d" />
-
-<img width="683" height="657" alt="image" src="https://github.com/user-attachments/assets/bc398791-8946-437f-9447-fd06ad2ff4e7" />
 
 
 
