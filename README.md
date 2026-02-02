@@ -79,6 +79,7 @@ The AI functionality in MindPatch is simulated using rule-based logic to demonst
 - If mood is low and screen time is high → suggest a longer digital detox break  
 - If mood is neutral and screen time is moderate → suggest short mindful breaks  
 - If mood is positive → reinforce habits and encourage gratitude journaling
+<img width="836" height="703" alt="image" src="https://github.com/user-attachments/assets/53201c87-e366-4e86-bbc0-21029543eb5b" />
 
 ### Outputs
 - Personalized detox suggestions shown on the AI Planner screen
@@ -95,13 +96,6 @@ Link: https://docs.google.com/forms/d/e/1FAIpQLSd-Jl8nwIGF2DM8h0FqKMVfoZZQwIcAc1
 ### Key Feedback
 - AI suggestions were helpful but required clearer explanation
 - Habit tracker layout felt visually dense
-
-### Iterations Implemented
-- Added brief explanatory text to clarify how AI suggestions are generated
-- Simplified the Habit Tracker layout to reduce cognitive load
-<img width="675" height="630" alt="image" src="https://github.com/user-attachments/assets/29bbf877-8c73-4397-9134-3b193439e37d" />
-<img width="683" height="657" alt="image" src="https://github.com/user-attachments/assets/bc398791-8946-437f-9447-fd06ad2ff4e7" /> <br/>
-These refinements improved clarity and usability while preserving the original design intent.
 
 ---
 
@@ -123,7 +117,7 @@ These refinements improved clarity and usability while preserving the original d
 
 ## Prototype Link
 🔗 **Figma Prototype**  
-[(https://www.figma.com/make/IR5Pi1frNQIjLm7M5EJvWc/MindPatch-Mobile-App-Prototype?t=KbIuKl6CgbTqwbum-1)]
+https://www.figma.com/proto/t3UJfu7MRHlISjVGyLC9kA/Wireframing--Copy-?node-id=77-432&t=mGMPLr0NYC9rDUTS-1
 
 ---
 
