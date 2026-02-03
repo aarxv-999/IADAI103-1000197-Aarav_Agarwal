@@ -121,6 +121,14 @@ https://www.figma.com/proto/t3UJfu7MRHlISjVGyLC9kA/Wireframing--Copy-?node-id=77
 
 ---
 
+## Citations
+
+https://www.who.int/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6214874/
+https://www.nngroup.com/topic/emotional-design/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6551800/
+
+---
 ## Author
 - **Name:** Aarav Agarwal  
 - **Student ID:** 1000197
